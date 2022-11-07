@@ -23,3 +23,6 @@ function makeNumber() {
 
 So the easies way to modify it is to look at it as an equation Math.floor((Math.random() * x) + y), where x is the largest 
 number you wanna get, and y is the lowest.
+
+- [More information on Math.floor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+- [More information on Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
